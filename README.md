@@ -1,7 +1,7 @@
 ### TotallyNotLostProgrammer
 
 ```lua
-return {
+local TheLostProgrammer = {
   languages_learned = {
     "C#",
     "Lua",
